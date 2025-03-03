@@ -13,16 +13,26 @@ Il programma deve chiedere all’utente quanti numeri vuole inserire (N, con N >
 
 # Esempio di esecuzione:
 Quanti numeri vuoi inserire? 5
+
 Inserisci il numero 1: 12
+
 Inserisci il numero 2: 7
+
 Inserisci il numero 3: 20
+
 Inserisci il numero 4: -5
+
 Inserisci il numero 5: 3
 
 # Risultati:
 Somma: 37
+
 Media: 7.40
+
 Massimo: 20
+
 Minimo: -5
+
 Numeri pari: 2
+
 Numeri dispari: 3
