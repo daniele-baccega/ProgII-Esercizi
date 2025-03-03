@@ -1,4 +1,4 @@
-Esercizio 1
+## Esercizio 1
 Scrivere un programma in C che acquisisca una sequenza di numeri interi da input e fornisca alcune informazioni statistiche sulla sequenza.
 
 Il programma deve chiedere all’utente quanti numeri vuole inserire (N, con N > 0).
@@ -11,7 +11,7 @@ Il programma deve chiedere all’utente quanti numeri vuole inserire (N, con N >
 4. Usare funzioni separate per ciascuna operazione.
 
 
-Esempio di esecuzione:
+# Esempio di esecuzione:
 Quanti numeri vuoi inserire? 5
 Inserisci il numero 1: 12
 Inserisci il numero 2: 7
@@ -19,7 +19,7 @@ Inserisci il numero 3: 20
 Inserisci il numero 4: -5
 Inserisci il numero 5: 3
 
-Risultati:
+# Risultati:
 Somma: 37
 Media: 7.40
 Massimo: 20
