@@ -1,3 +1,3 @@
-# Esercizio 4 - Inserimento ordinato in lista linkata
+# Esercizio 4 - Rimozione da una lista linkata
 
 Scrivere una funzione `rimuovi_multipli` che rimuove dalla lista tutti i nodi contenenti un valore multiplo di un dato intero passato come argomento. Scrivere anche la funzione di creazione del nodo e di stampa dell'intera lista.
