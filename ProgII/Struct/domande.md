@@ -1,4 +1,4 @@
-# Esercizio 2 - Struct
+# Esercizio 2 - Struct con studenti
 1. Definisci una struct studente con i seguenti campi:
 
 - nome (stringa di massimo 30 caratteri)
