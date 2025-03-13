@@ -1,4 +1,4 @@
-# Esercizio 11 - Applicazione di una funzione a un array con puntatori a `void`
+# Esercizio 9 - Applicazione di una funzione a un array con puntatori a `void`
 
 Scrivere una funzione `applica_a_tutti(void* array, size_t elementi, size_t size, void (*operazione)(void*))` che applica una funzione generica a tutti gli elementi di un array.
 
